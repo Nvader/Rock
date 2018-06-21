@@ -55,6 +55,7 @@ public class SalaryComparator {
             System.out.println("Your current average salary now is just about right");
         }
         System.out.println("Have a nice day!");
+        System.out.println("Hello again");
 
 
     }
