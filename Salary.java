@@ -56,8 +56,7 @@ public class SalaryComparator {
         }
         System.out.println("Have a nice day!");
 
-        Random random = new Random();
-        System.out.println(random.ints(4,5,7));
+
     }
 
 }
