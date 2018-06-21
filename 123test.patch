@@ -1,0 +1,17 @@
+Index: Salary.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- Salary.java	(revision 2841771812ac3a1d4427fb356926fead71b0616b)
++++ Salary.java	(date 1529579620079)
+@@ -56,8 +56,7 @@
+         }
+         System.out.println("Have a nice day!");
+ 
+-        Random random = new Random();
+-        System.out.println(random.ints(4,5,7));
++
+     }
+ 
+ }
